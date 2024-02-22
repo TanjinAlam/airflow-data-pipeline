@@ -1,0 +1,3 @@
+airflow_postgres_data
+airflow_data/airflow
+airflow_data/dags/.env
